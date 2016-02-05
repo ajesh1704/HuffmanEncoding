@@ -1,0 +1,1 @@
+This is a project that encodes a string based on Huffmans algorithm and decodes it back. An Extension of the project is to encode files and decode them. I am curently working on that
